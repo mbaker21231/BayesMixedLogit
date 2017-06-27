@@ -1,0 +1,84 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Files that generally get too big for repeated syncing.
+# Generally, pickles, rasters, shapes, and stata .dta files.
+*.pkl
+*.dbf
+*.dbf~
+*~
+*.csv
+*.html
+*.png
+*.zip
+*.asc
+*.adf
+*.prj
+*.shp
+*.shx
+*.cpg
+*.qpj
+*.dta
+
+# Files that pop up because of POSTGRESQL and also because of downloads
+*.ini
+*.shp
+*.tif
+*.tif.aux.xml
+*.sbn
+*.sbx
+
+# Files associated with Latex documents
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+
+# Files that are pains in the ass
+*checkpoint.ipynb
+*.gph
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+BufferedCitiesShp.dbf~
